@@ -6,6 +6,8 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]serSettings/
+[Ll]ibrary/
+
 
 # OS generated files
 .DS_Store
