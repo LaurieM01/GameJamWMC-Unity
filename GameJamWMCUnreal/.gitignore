@@ -1,0 +1,16 @@
+# Unreal Engine build artifacts
+Intermediate/
+Saved/
+DerivedDataCache/
+*.pch
+*.obj
+*.log
+*.tmp
+*.bak
+*.exp
+*.lib
+*.dll
+*.exe
+*.app
+*.so
+*.dylib
